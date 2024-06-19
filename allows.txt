@@ -2,6 +2,7 @@ cr.l5d.io/**
 cr.weaviate.io/**
 docker.elastic.co/**
 docker.io/*
+docker.io/lswl/*
 docker.io/adoptopenjdk/**
 docker.io/amambadev/**
 docker.io/apache/**
